@@ -1,0 +1,12 @@
+lst=[5,41,51,25,50,10,25,85]
+print(lst[2])
+print(lst[5])
+print(lst[1:4])
+print(lst[3:7])
+print(lst[2:5])
+print(lst[2:])
+print(lst[:5])
+print(lst[-1])
+print(lst[-3])
+print(lst[-3:])
+print(lst[:-2])
